@@ -151,7 +151,7 @@ export default function EVM() {
           {/* Header Section */}
           <div className="relative bg-[hsl(var(--evm-header-bg))] px-3 py-4 text-center border-b-4 border-border">
             <h1 className="text-lg sm:text-xl font-bold text-[hsl(var(--evm-header-text))]">
-              लातूर जिला परिषद एवं पंचायत समिति
+              मानेगाव जिला परिषद
             </h1>
             <h2 className="text-base sm:text-lg font-bold text-[hsl(var(--evm-header-text))]">
               आम चुनाव
@@ -259,7 +259,7 @@ export default function EVM() {
         <div className="flex justify-center items-center py-3 px-4">
           <div className="flex items-center space-x-3">
             <span className="text-lg font-bold text-foreground">
-              मतदान  संख्या:
+              मतदान संख्या:
             </span>
             <div className="bg-primary text-primary-foreground px-4 py-2 rounded-full font-bold text-xl min-w-[60px] text-center">
               {buttonClickCount}
